@@ -8,7 +8,7 @@ These MATLAB source codes are related to the paper "Application of Higher-Order 
 
 所有代码采用MATLAB语言编写，使用MATLAB R2018b软件进行试验。
 
-脚本中所用MATLAB子函数可能来源于Communications Toolbox工具箱中，请使用版本高于R2018b的含有Communications Toolbox工具箱的MATLAB 软件中运行主函数脚本文件。
+脚本中所用的部分MATLAB子函数来源于Communications Toolbox工具箱，请使用版本高于R2018b的、含有Communications Toolbox工具箱的MATLAB 软件运行主函数脚本文件。
 
 ============================================================================================
 ##脚本文件说明
@@ -67,4 +67,5 @@ BW = (1980-1920)*1e6; % Hz mapping bandwidth
 ============================================================================================
 
 By YellowBook
+
 Time: 20240107
