@@ -45,8 +45,11 @@ Sx.s2p：通带1920-1980MHz，9阶-3零点同轴滤波器六组状态下的HFSS�
 滤波器参数：
 
 N = 9; % Order of the filter
-Nz = 3; % Number of the transmission zeros 
+
+Nz = 3; % Number of the transmission zeros
+
 CF = sqrt(1920*1980)*1e6; % Hz center mapping frequency
+
 BW = (1980-1920)*1e6; % Hz mapping bandwidth
 
 1900mea.s2p：通带1920-1980MHz，6阶-2零点悬置带线滤波器测试数据。
@@ -54,8 +57,11 @@ BW = (1980-1920)*1e6; % Hz mapping bandwidth
 滤波器参数：
 
 N = 6; % Order of the filter
+
 Nz = 2; % Number of the transmission zeros 
+
 CF = sqrt(1920*1980)*1e6; % Hz center mapping frequency
+
 BW = (1980-1920)*1e6; % Hz mapping bandwidth
 
 ============================================================================================
