@@ -1,5 +1,5 @@
 # Coupling-Matrix-Extraction-Method-With-High-Order-Transmission-Coefficient-Fitting-Strategy
-These MATLAB source codes are related to the paper "Application of Higher-Order Transmission Coefficient Fitting Strategy in Filter Coupling Matrix Extraction".
+These MATLAB source codes are related to the paper "Application of Higher-Order S21 Fitting Strategy in Filter Coupling Matrix Extraction".
 
 本文件为论文《高阶S21拟合策略在耦合矩阵提取方法中的运用》的配套源代码以及测试用数据。
 
