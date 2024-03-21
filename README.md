@@ -1,17 +1,16 @@
 # Coupling-Matrix-Extraction-Method-With-High-Order-Transmission-Coefficient-Fitting-Strategy
-These MATLAB source codes are related to the paper "Application of Higher-Order S21 Fitting Strategy in Filter Coupling Matrix Extraction".
+These MATLAB source codes are related to the paper "Application of the high-order S21 fitting strategy in coupling-matrix-extraction
+methods".
 
-本文件为论文《高阶S21拟合策略在耦合矩阵提取方法中的运用》的配套源代码以及测试用数据。
+本文件为论文《高阶S21 拟合策略在耦合矩阵提取方法中的运用》的配套源代码以及测试用数据。
 
 ============================================================================================
-
-论文地址：https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaD7nNc1B3Fr41t1dEO5s5ImDrpCdTjnJcbH4ggR6ttWUyoUuLDclWWNNhjAQ4fuKwIPRUZBAY0FeN3_EufibWq3Xws91gndAXDHLv0Z-bZCB422-PiiU-ePUvdUlptWprI=&uniplatform=NZKPT&language=CHS
 
 ##注意
 
 所有代码采用MATLAB语言编写，使用MATLAB R2018b软件进行试验。
 
-脚本中所用的部分MATLAB子函数来源于Communications Toolbox工具箱，请使用版本高于R2018b的、含有Communications Toolbox工具箱的MATLAB 软件运行主函数脚本文件。
+脚本中所用的部分MATLAB子函数来源于RF Toolbox工具箱，请使用版本高于R2018b的、含有RF Toolbox工具箱的MATLAB 软件运行主函数脚本文件。
 
 ============================================================================================
 ##脚本文件说明
@@ -68,6 +67,9 @@ CF = sqrt(1920*1980)*1e6; % Hz center mapping frequency
 BW = (1980-1920)*1e6; % Hz mapping bandwidth
 
 ============================================================================================
+
+论文地址：[https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaD7nNc1B3Fr41t1dEO5s5ImDrpCdTjnJcbH4ggR6ttWUyoUuLDclWWNNhjAQ4fuKwIPRUZBAY0FeN3_EufibWq3Xws91gndAXDHLv0Z-bZCB422-PiiU-ePUvdUlptWprI=&uniplatform=NZKPT&language=CHS
+](https://link.cnki.net/urlid/61.1076.TN.20240313.1500.005)
 
 By YellowBook
 
