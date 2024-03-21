@@ -2,7 +2,7 @@
 These MATLAB source codes are related to the paper "Application of Higher-Order S21 Fitting Strategy in Filter Coupling Matrix Extraction".
 
 本文件为论文《高阶S21拟合策略在耦合矩阵提取方法中的运用》的配套源代码以及测试用数据。
-
+论文地址：https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaD7nNc1B3Fr41t1dEO5s5ImDrpCdTjnJcbH4ggR6ttWUyoUuLDclWWNNhjAQ4fuKwIPRUZBAY0FeN3_EufibWq3Xws91gndAXDHLv0Z-bZCB422-PiiU-ePUvdUlptWprI=&uniplatform=NZKPT&language=CHS
 ============================================================================================
 ##注意
 
