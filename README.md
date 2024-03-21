@@ -68,9 +68,6 @@ BW = (1980-1920)*1e6; % Hz mapping bandwidth
 
 ============================================================================================
 
-论文地址：[https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaD7nNc1B3Fr41t1dEO5s5ImDrpCdTjnJcbH4ggR6ttWUyoUuLDclWWNNhjAQ4fuKwIPRUZBAY0FeN3_EufibWq3Xws91gndAXDHLv0Z-bZCB422-PiiU-ePUvdUlptWprI=&uniplatform=NZKPT&language=CHS
-](https://link.cnki.net/urlid/61.1076.TN.20240313.1500.005)
-
 By YellowBook
 
 Time: 20240107
